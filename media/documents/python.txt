@@ -1,0 +1,7 @@
+1. According to a survey conducted by JetBrains in 2021, Python was used by 48.07% of developers worldwide1. It was the fourth most widely used programming language around the world, after JavaScript, HTML/CSS and SQL.
+
+2. According to a report, 69 percent of machine-learning developers and data scientists now use Python, compared with 24 percent of them using R.
+
+3. According to a survey conducted by JetBrains, 89% of Django developers use Python as their main language1. In addition to Python, 75% of Django developers also use JavaScript and 67% use HTML/CSS.
+
+4. 
